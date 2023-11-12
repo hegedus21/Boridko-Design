@@ -68,13 +68,13 @@
   Evosoft Budaoest Office Gallery
   Revit Project Gallery
 
-  Study more
-  Little English book
-  90 Days Notebook
-  No ordinary English book
-  "Emily In Paris"
-  Tenses book
-  Cosmetics brochure
+  Study more Gallery
+  Little English book Gallery
+  90 Days Notebook Gallery
+  No ordinary English book Gallery
+  "Emily In Paris" Gallery
+  Tenses book Gallery
+  Cosmetics brochure Gallery
 
 ## Testimonials
 
